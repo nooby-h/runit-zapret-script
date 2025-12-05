@@ -1,0 +1,3 @@
+#!/bin/sh -e
+exec 2>&1
+exec /home/praef/zapret-discord-youtube-linux/main_script.sh -nointeractive
